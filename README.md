@@ -1,2 +1,2 @@
 # freeDoor
-we use it to suffing on interNet
+we use it to suffering on interNet
